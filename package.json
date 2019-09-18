@@ -1,0 +1,32 @@
+{
+  "name": "host-local-files",
+  "version": "1.0.1",
+  "description": "Serve local files in a target directory",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassaanp/host-local-files.git"
+  },
+  "keywords": [
+    "node.js",
+    "static",
+    "file",
+    "server"
+  ],
+  "author": "Hassaan Pasha",
+  "license": "ISC",
+  "bin": {
+    "host-local-files": "./cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/hassaanp/host-local-files/issues"
+  },
+  "homepage": "https://github.com/hassaanp/host-local-files#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "serve-index": "^1.9.1"
+  }
+}
