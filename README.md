@@ -35,6 +35,10 @@ To serve the present working directory, just run
 host-local-files .
 ```
 
+### Access the files
+
+To access the files navigate to `http://localhost:3000/` in your browser.
+
 ## Built With
 
 * [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
