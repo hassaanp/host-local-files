@@ -10,10 +10,8 @@ These instructions will get you a working cli running on your machine.
 
 What things you need to install the software and how to install them
 
-```
-1. [node.js](https://nodejs.org/en/download/)
-2. npm (will be automatically installed with node)
-```
+* [node.js](https://nodejs.org/en/download/)
+* npm (will be automatically installed with node)
 
 ### Installing
 
