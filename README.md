@@ -41,7 +41,7 @@ host-local-files .
 
 ## Authors
 
-* **Hassaan Pasha**
+* **Hassaan Pasha** - [website](https://hassaanpasha.com)
 
 ## Acknowledgments
 
