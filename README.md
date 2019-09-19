@@ -35,11 +35,6 @@ To serve the present working directory, just run
 host-local-files .
 ```
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-
 ## Built With
 
 * [Express](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
