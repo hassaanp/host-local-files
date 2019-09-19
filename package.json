@@ -1,6 +1,6 @@
 {
   "name": "host-local-files",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Serve local files in a target directory",
   "main": "cli.js",
   "scripts": {
